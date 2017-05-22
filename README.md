@@ -22,3 +22,5 @@ Opdrachten 5 en 6 zijn ingeleverd op 30-3-2016 14:03
 
 5 en 6 samen gemaakt met leon Frielink. Glenn veldhuis en Sam Dingeldijn stopten met de opleiding en zij wij dus samen beginnen te werken.
 Na laten kijken en ingeleverd  op deze data achter de  Opdrachten
+
++ Oppdracht 8 In dit hoofdstuk hebben we een DBD gekregen en gepopulate ( De voledige database staat in de map Opdracht 8 met de naam ReviewDbScript) Deze zit in de website, verder hebben we geleerd hoe we een website makkelijk responsive kunnen maken. 
